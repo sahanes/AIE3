@@ -1,1 +1,1 @@
-# FILL OUT YOUR CHAINLIT MD HERE WITH A DESCRIPTION OF YOUR APPLICATION
+# Here is Paul Graham Assistent BOT! Ask me any questions from his essay.
