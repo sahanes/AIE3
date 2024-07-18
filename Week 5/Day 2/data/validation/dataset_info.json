@@ -1,0 +1,42 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "mental_health_counseling_conversations",
+  "dataset_size": 4643156,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Amod/mental_health_counseling_conversations@4672e03c7f1a7b2215eb4302b83ca50449ce2553/combined_dataset.json": {
+      "num_bytes": 4790520,
+      "checksum": null
+    }
+  },
+  "download_size": 4790520,
+  "features": {
+    "Context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "Response": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 9433676,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 4643156,
+      "num_examples": 3512,
+      "dataset_name": "mental_health_counseling_conversations"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

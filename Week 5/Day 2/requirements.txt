@@ -1,0 +1,10 @@
+chainlit==0.7.700
+langchain==0.2.5
+langchain_community==0.2.5
+langchain_core==0.2.9
+langchain_huggingface==0.0.3
+langchain_text_splitters==0.2.1
+python-dotenv==1.0.1
+qdrant-client
+
+! pip install -qU langchain langchain_openai langgraph arxiv duckduckgo-search pubmed wolframalpha duckduckgo_search==5.3.1b1
