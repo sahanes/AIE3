@@ -45,4 +45,5 @@ Please to reach out with any questions or suggestions.
 Happy coding! 🚀🚀🚀
 
 My mid-term: 10k-airbnb: https://colab.research.google.com/drive/1S3wpCtIoP1BwqxIvplfRE7tdamcaQ072?usp=sharing
+another version: https://colab.research.google.com/drive/1S7L8Cn7BFPt1b_MAwLzPuitFofapA-8v?usp=sharing
 
